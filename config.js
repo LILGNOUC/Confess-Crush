@@ -14,6 +14,6 @@ YÊU MẸ <3`,
     reply: 'YÊU MẸ <33333333',
     mess: 'con biết mà 🥰. MẸ thương con rất nhiều đúng hông🥰',
     messDesc: 'happy teachers Day.',
-    btnAccept: 'YÊU MẸ <3',
+    btnAccept: 'YÊU CON NHIỀU <3',
     messLink: 'https://MY.MOM/CUONG.GUI.TANG.ME' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
