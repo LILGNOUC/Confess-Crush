@@ -11,9 +11,9 @@ YÊU MẸ <3`,
     btnNo: 'Mẹ không thương con đúng hông',
     question: 'Trên thế giới hơn 7 tỉ người, riêng chỉ có mẹ là tuyệt vời nhất',
     btnReply: 'Gửi cho mẹ <3',
-    reply: 'YÊU MẸ <33333333',
+    reply: 'MẸ YÊU CẢ NHÀ <3333333',
     mess: 'con biết mà 🥰. MẸ thương con rất nhiều đúng hông🥰',
     messDesc: 'happy teachers Day.',
-    btnAccept: 'YÊU CON NHIỀU <3',
+    btnAccept: 'YÊU MẸ <3',
     messLink: 'https://MY.MOM/CUONG.GUI.TANG.ME' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
