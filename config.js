@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Món quà cho mẹ nhân ngày 20/11 ",
+    introTitle: 'Nguyễn Thị Ngoan',
+    introDesc: `Nhân ngày 20/11. con chúc mẹ nhiều sức khỏe nè, nhiều niềm vui trong cuộc sống nè.
+Tới đây thì chắc mẹ cũng xem hết video rồi, nếu mà chưa xem thì xem đi hahahh. Mọi lời chúc, con đã chúc hết rồi...chỉ mong mẹ luôn khỏe mạnh để sống bên bố, anh và con nha. 
+YÊU MẸ <3`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'HELLO my mom',
+    desc: 'shout out to my mom (dành lời kính trọng cho mẹ tôi) ',
+    btnYes: 'YÊU MẸ',
+    btnNo: 'Mẹ không thương con đúng hông',
+    question: 'Trên thế giới hơn 7 tỉ người, riêng chỉ có mẹ là tuyệt vời nhất',
+    btnReply: 'Gửi cho mẹ <3',
+    reply: 'YÊU MẸ <33333333',
+    mess: 'con biết mà 🥰. MẸ thương con rất nhiều đúng hông🥰',
+    messDesc: 'happy teachers Day.',
+    btnAccept: 'YÊU MẸ <3',
+    messLink: 'https://MY.MOM/CUONG.GUI.TANG.ME' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
